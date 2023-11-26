@@ -9,10 +9,6 @@ Este é um programa Python simples para calcular o custo de aluguel de veículos
 3. Siga as instruções para fornecer informações sobre dias de aluguel, quilômetros rodados e taxa diária do veículo.
 4. Obtenha o total a pagar e um resumo detalhado do aluguel.
 
-**README: Aluguel de Veículos**
-
-```markdown
-
 ### Escolha do Tipo de Veículo
 
 O usuário é solicitado a inserir o tipo de veículo desejado (carro ou moto) por meio da entrada do teclado. Um loop garante a validação da escolha.
