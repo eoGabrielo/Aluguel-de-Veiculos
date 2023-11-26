@@ -47,4 +47,3 @@ O usuário fornece informações sobre dias de aluguel, quilômetros rodados e a
 
 O programa realiza cálculos para determinar o custo total do aluguel, considerando dias e quilômetros rodados. Exibe um resumo detalhado, incluindo o tipo de veículo, preço por dia, preço por quilômetro, total a pagar, entre outros.
 
-```
